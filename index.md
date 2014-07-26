@@ -5,7 +5,7 @@ published: true
 
 ### Hello, Markdown Headers
 
-* This is a bullet point.
+* This is a bullet point. Hello world!
 
 This is just plain paragraph text.
 
